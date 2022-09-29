@@ -4,8 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>POPMART-Shop All</title>
+    <title>POPMART Official</title>
+    <!-- CSS only -->
+    <!-- <link rel="stylesheet" href="../css/bootstrap-grid.css">
+    <link rel="stylesheet" href="../css/bootstrap-grid.min.css"> -->
+    
     <link rel="stylesheet" href="../css/style.css">
+    
 </head>
 <body>
     <!-- ------------ HEADER------------- -->
@@ -19,7 +24,7 @@
                 <div class="wrapper">
                     <div class="top-menu-logo"></div>
                     <ul class="footer-column menu-f-c">
-                    <li class="footer-col-title"><a href="info-policy.html">INFORMATION</a></li>
+                    <li class="footer-col-title"><a href="info-about.html"></a>INFORMATION</a></li>
                     <li><a href="">About us</a></li>
                     <li><a href=""></a>Privacy Policy</li>
                     <li><a href="">Terms & Conditions</a></li>
@@ -80,6 +85,7 @@
                 </div>
             </div>   
         </nav>
+        
         <div id="overall-height">
             <div class="wrapper">
                 <div class="top-header">
@@ -95,7 +101,8 @@
                                 <div class="search-icon"></div>
                                 <input id="search-inp" class="search-field" type="search" placeholder="Search">
                             </div>
-                            <a class="account" href="my-account.html"></a>
+                            <a class="account" href="my-account.html">
+                            </a>
                             <div class="shop-bag">
                                 <div id="shop-bag-icon"></div>
                                 <div class="number"></div>    
@@ -197,6 +204,7 @@
                 </div>
             </div>
         </div>
+    
         <div id="shop-bag-page">
             <div class="scroll-bar">
                 <p><span>Free Shipping: </span>All orders over $49.00</p>
@@ -317,370 +325,421 @@
         <div id="overlay"></div>
     </header>
 
+    <!-- ------------ MAIN------------- -->
     <main>
-        <div class="coll-grid">
-            <aside id="collection-lf">
-                <div class="page-title">
-                    <h1><span>Blind Box:</span> Dimoo</h1>
+        <div class="popup-modal">
+            <div id="pop-up">
+                <div id="close-pop">
+                    <p>&#x2715</p>
                 </div>
-                <div id="filter">
-                    <div class="fi-sort fi-radio">
-                        <button type="button" class="slide-btn fi-btn">Sort By</button>
-                        <ul class="des-content">
-                            <li>
-                                <input type="radio">
-                                <label for="newest">New to old</label>
-                            </li>
-                            <li>
-                                <input type="radio">
-                                <label for="price-low">Price low to high</label>
-                            </li>
-                            <li>
-                                <input type="radio">
-                                <label for="price-hight">Price high to low</label>
-                            </li>
-                            <li>
-                                <input type="radio">
-                                <label for="selling">Best selling</label> 
-                            </li>  
-                        </ul>  
-                    </div>
-                    <div class="fi-price">
-                        <button type="button" class="slide-btn fi-btn">Price</button>
-                        <div class="des-content">
-                            <div class="range-num">$50 & Under</div>
-                            <div class="range-bar">
-                                <div class="pri-25"></div>
-                                <div class="pri-50 current-point"></div>
-                                <div class="pri-75"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="fi-color">
-                        <button type="button" class="slide-btn fi-btn">Color</button>
-                        <div class="des-content">
-                            <div class="color-palette">
-                                <div class="red"></div>
-                                <div class="orange"></div>
-                                <div class="yellow"></div>
-                                <div class="light-yellow"></div>
-                                <div class="green"></div>
-                                <div class="dark-green"></div>
-                                <div class="blue"></div>
-                                <div class="pink"></div>
-                                <div class="purple"></div>
-                                <div class="white"></div>
-                                <div class="grey"></div>
-                                <div class="tan"></div>
-                                <div class="brown"></div>
-                                <div class="dark-grey"></div>
-                                <div class="black"></div>
-                                <div class="orange"></div>
-                                <div class="yellow"></div>
-                                <div class="light-yellow"></div>
-                            </div> 
-                        </div> 
-                    </div>
-                    <div class="fi-type fi-radio">
-                        <button type="button" class="slide-btn fi-btn">Type</button>
-                        <ul class="des-content">
-                            <li><input type="radio">
-                                <label for="blinebox">Blind Box</label></li>
-                            <li><input type="radio">
-                                <label for="price-low">Collectible Figure</label></li>
-                            <li><input type="radio">
-                                <label for="price-hight">Accessories</label></li>
-                            <li><input type="radio">
-                                <label for="selling">Limited Gift Box</label> </li> 
-                        </ul>
-                    </div>
-    
-                    <div class="fi-ip fi-radio">
-                        <button type="button" class="slide-btn fi-btn">IP</button>
-                        <ul class="des-content">
-                            <li><input type="radio">
-                                <label for="newest">Molly</label></li>
-                            <li><input type="radio">
-                                <label for="price-low">Dimoo</label></li>
-                            <li><input type="radio">
-                                <label for="price-hight">Pucky</label></li>
-                            <li><input type="radio">
-                                <label for="selling">Bobo & Coco</label></li>
-                            <li><input type="radio">
-                                <label for="selling">Skullpanda</label></li>
-                            <li><input type="radio">
-                                <label for="selling">The Monsters</label></li>   
-                        </ul>
-                    </div>
-                    <div class="fi-price">
-                        <button type="button" class="slide-btn fi-btn">Figure Size</button>
-                        <div class="des-content">
-                            <div class="range-size">400%</div>
-                            <div class="range-bar">
-                                <div class="size-25"></div>
-                                <div class="size-50 current-point"></div>
-                                <div class="size-75"></div>
-                            </div>
-                        </div>
+                <div class="big-account"></div>
+                <div class="sign-up">
+                    <h1>BECOME OUR MEMBER!</h1>
+                    <p>Enter your email and to stay in touch.<br>Sign up for newsletter to know our latest news and offers.</p>
+                    <div class="email-input">
+                        <input type="text" placeholder="Email Address">
+                        <button class="poster-btn sign-up-btn">SIGN UP</button>
                     </div>
                 </div> 
-                <div id="clear-ok">
-                    <div class="clear-filter" id="clear-all">Clear Filter</div>
-                    <div class="ok">Ok</div> 
-                </div> 
-            </aside>
-            <div class="collection-rh" >
-                <div class="block-3">
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div> 
-                </div>
-                <div class="block-3">
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div> 
-                </div>
-                <div class="block-3">
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div> 
-                </div>
-                <div class="block-3">
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div> 
-                </div>
-                <div class="block-3">
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div>
-                    <div class="home-product">
-                        <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                        <div class="home-pro-title rec-title">
-                            <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                            <p>11.50 USD</p>
-                        </div>
-                    </div> 
-                </div>
-                <div class="page-number">
-                    <ul>
-                        <li class="prev">
-                            <img src="../svg/left-arrow.png" alt="">
-                        </li>
-                        <li>1</li>
-                        <li>2</li>
-                        <li class="current-page">3</li>
-                        <li>...</li>
-                        <li>7</li>
-                        <li>8</li>
-                        <li class="next">
-                            <img src="../svg/left-arrow.png" alt="">
-                        </li>
-                    </ul>
-                </div>
             </div>
         </div>
-        <div class="recently-view">
-            <h2>Recently View</h2>
+        <!-- ------------ index-video------------- -->
+        <div class="video-container">
+            <video autoplay muted loop id="myVideo">
+                <source src="../video/video-3.mp4#t=10" type="video/mp4">
+            </video>
+            <!-- Video Controls -->
+            <div id="video-controls">
+                <lord-icon id="volume" src="https://cdn.lordicon.com/abkxerbf.json" trigger="loop" colors="outline:#121331,primary:#ffd500,secondary:#4bb3fd,tertiary:#ffc738,quaternary:#f28ba8">
+                </lord-icon>
+                <div class="side-text">
+                    <p><span>&#9835 </span>Click Ball</p>
+                </div>
+                <p class="v-tag minus">Vol -</p>
+                <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="0.5">
+                <p class="v-tag plus">Vol +</p>
+                </div>
+            </div>
+        </div> 
+
+        <!-- ------------ blocks ------------- -->
+        <div class="wrapper">
+            <div class="block-title block-title-1">
+                <div class="title-text">
+                    <h1>Skullpanda Hypepanda</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
+
+            <!-- ------------ block 1 ------------- -->
+
+            <div class="block-grid block-1">
+
+                <!-- ------------ block 1 left------------- -->
+
+                <div class="block-1-left">
+                    <div class="poster-1">
+                        <div class="pos-1-sticker"></div>
+                        <a href="collection.html"><button class="poster-btn poster-1-btn">SHOP NOW</button></a>
+                    </div>
+                    <div class="product-grid">
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-62.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-55.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-62.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-62.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>   
+                    </div>
+                </div>
+
+                <!-- ------------ block 1 right ------------- -->
+
+                <div class="block-1-right">
+                    <div class="product-grid">
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-76.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><a href="product.html"><img src="../img/img-57.png" alt=""></a></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-76.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                        <div class="home-product">
+                            <a href="product.html"><img src="../img/img-76.png" alt=""></a>
+                            <div class="home-pro-title">
+                                <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                                <p>11.50 USD</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="poster-2">
+                        <a href="collection.html"><button class="poster-btn poster-2-btn">SHOP NOW</button></a>
+                    </div>  
+                </div>
+            </div>
+            
+            <!-- ------------ IP collection ------------- -->
+
+            <div class="block-title">
+                <div class="title-text">
+                    <h1>Our IP</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
+            <ul id="avatar-block">
+                <li class="ip" id="ip-80"><a href="collection.html">Dimoo</a></li>
+                <li class="ip" id="ip-38"><a href="collection.html">Molly</a></li>
+                <li class="ip" id="ip-69"><a href="collection.html">Pucky</a></li>
+                <li class="ip" id="ip-60"><a href="collection.html">Monster</a></li>
+                <li class="ip" id="ip-25"><a href="collection.html">Bobo</a></li>
+                <li class="ip" id="ip-29"><a href="collection.html">Coco</a></li>  
+            </ul>
+
+            <!-- ------------ block 2 ------------- -->
+
+            <div class="block-title">
+                <div class="title-text">
+                    <h1>Skullpanda Hypepanda</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
+            <div class="block-2">
+                <div class="block-2-pro">
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-32.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-38.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="block-2-mid">
+                    <div class="poster-3">
+                        <a href="collection.html"><button class="poster-btn poster-3-btn">SHOP NOW</button></a>
+                    </div>
+                </div>
+                <div class="block-2-pro">
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-32.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-32.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ------------ block 2(copy) ------------- -->
+
+            <div class="block-title block-2-title">
+                <div class="title-text">
+                    <h1>Skullpanda Hypepanda</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
+            <div class="block-2">
+                <div class="block-2-pro">
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-44.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-38.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="block-2-mid">
+                    <div class="poster-4">
+                        <a href="collection.html"><button class="poster-btn poster-4-btn">SHOP NOW</button></a>
+                    </div>
+                </div>
+                <div class="block-2-pro">
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-44.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                    <div class="home-product">
+                        <a href="product.html"><img src="../img/img-44.png" alt=""></a>
+                        <div class="home-pro-title">
+                            <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                            <p>11.50 USD</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="block-title block-2-title">
+                <div class="title-text">
+                    <h1>Limited Gift Box</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
+
+            <!-- ------------ block 3 gift collection ------------- -->
+
+            <div class="block-3">   
+                <div class="home-product">
+                    <a href="product.html"><img src="../img/img-12.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                        <p>11.50 USD</p>
+                    </div>
+                    <div class="gift-tag"></div>
+                </div>
+                <div class="home-product">
+                    <a href="product.html"><img src="../img/img-49.jpg" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                        <p>11.50 USD</p>
+                    </div>
+                    <div class="gift-tag"></div>
+                </div>
+                <div class="home-product">
+                    <a href="product.html"><a href="product.html"><img src="../img/img-57.png" alt=""></a></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                        <p>11.50 USD</p>
+                    </div>
+                    <div class="gift-tag"></div>
+                </div>
+                <div class="home-product">
+                    <a href="product.html"><img src="../img/img-14.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
+                        <p>11.50 USD</p>
+                    </div>
+                    <div class="gift-tag"></div>
+                </div>   
+            </div>
+
+            <!-- ------------ block 3 sale products------------- -->
+
+            <div class="block-title">
+                <div class="title-text">
+                    <h1>Sale Products</h1>
+                    <div class="triangle"></div>
+                </div>
+                <a href="shop.html"><button class="view-all">View all</button></a>
+            </div>
             <div class="block-3">
                 <div class="home-product">
-                    <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                    <div class="home-pro-title rec-title">
-                        <h4><a href="product.html">Hypepanda Blind Box</a></h4>
+                    <a href="product.html"><img src="../img/img-29.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
                         <p>11.50 USD</p>
                     </div>
+                    <div class="sale-tag"></div>
                 </div>
                 <div class="home-product">
-                    <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                    <div class="home-pro-title rec-title">
-                        <h4><a href="product.html">Hypepanda Blind Box</a></h4>
+                    <a href="product.html"><img src="../img/img-27.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
                         <p>11.50 USD</p>
                     </div>
+                    <div class="sale-tag"></div>
                 </div>
                 <div class="home-product">
-                    <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                    <div class="home-pro-title rec-title">
-                        <h4><a href="product.html">Hypepanda Blind Box</a></h4>
+                    <a href="product.html"><img src="../img/img-56.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
                         <p>11.50 USD</p>
                     </div>
+                    <div class="sale-tag"></div>
                 </div>
                 <div class="home-product">
-                    <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                    <div class="home-pro-title rec-title">
-                        <h4><a href="product.html">Hypepanda Blind Box</a></h4>
+                    <a href="product.html"><img src="../img/img-60.png" alt=""></a>
+                    <div class="home-pro-title">
+                        <h4><a href="product.html">Skullpanda Hypepanda Blind Box</a></h4>
                         <p>11.50 USD</p>
                     </div>
-                </div>
-                <div class="home-product">
-                    <a href="product.html"><img src="../img/img-80.png" alt=""></a>
-                    <div class="home-pro-title rec-title">
-                        <h4><a href="product.html">Hypepanda Blind Box</a></h4>
-                        <p>11.50 USD</p>
-                    </div>
+                    <div class="sale-tag"></div>
                 </div> 
             </div>
-            <div class="arrow-icon left">
-                <img src="../svg/left-btn.svg" alt="">
+        </div>
+    </main>  
+
+    <!-- ------------ FOOTER ------------- -->
+
+    <footer class="page-footer">
+        <div class="wrapper">
+                <!-- ------------ top footer ------------- -->
+            <div class="footer-top-block">
+                <div class="footer-logo"></div>
+                <div class="sign-up">
+                    <h1>BECOME OUR MEMBER!</h1>
+                    <p>Enter your email and to stay in touch.<br>Sign up for newsletter to know our latest news and offers.</p>
+                    <div class="email-input">
+                        <input type="text" placeholder="Email Address">
+                        <button class="poster-btn sign-up-btn">SIGN UP</button>
+                    </div>
+                </div>       
             </div>
-            <div class="arrow-icon right">
-                <img src="../svg/right-btn.svg" alt="">
+            <!-- ------------ bottom footer ------------- -->
+            <div class="footer-bottom-block">
+                <ul class="footer-column">
+                    <li class="footer-col-title"><a href="info-about.html">INFORMATION</a></li>
+                    <li><a href="">About us</a></li>
+                    <li><a href=""></a>Privacy Policy</li>
+                    <li><a href="">Terms & Conditions</a></li>
+                    <li><a href="">Affiliate Program</a></li>
+                </ul>
+                <ul class="footer-column">
+                    <li class="footer-col-title"><a href="shop.html">SHOP</a></li>
+                    <li><a href="">Blind Box or Mystery Box</a></li>
+                    <li><a href=""></a>Collectible Figures</li>
+                    <li><a href="">Accessories</a></li>
+                    <li><a href="">Limit Gift Box</a></li>
+                </ul>
+                <ul class="footer-column">
+                    <li class="footer-col-title"><a href="help-faq.html">HELP</a></li>
+                    <li><a href="">FAQ</a></li>
+                    <li><a href=""></a>Contact us</li>
+                    <li><a href="">Shipping & Returns</a></li>
+                    <li><a href="">Track your order</a></li>
+                </ul>  
+                <ul class="footer-column">
+                    <li class="footer-col-title">FOLLOW US</li>
+                    <ul class="social-media">
+                        <li class="social-icon"><img src="../svg/2-instagram.svg" alt=""></li>
+                        <li class="social-icon"><img src="../svg/6-snapchat.svg" alt=""></li>
+                        <li class="social-icon"><img src="../svg/1-youtube.svg" alt=""></li>
+                    </ul>
+                    <li class="social-icon fb">
+                        <img src="..//svg/4-facebook-app-logo.svg" alt="">
+                    </li>
+                </ul>
+            </div>
+
+            <div class="copy-right">
+                <p>© 2022 POP MART All Right Reserved.</p>
             </div>
         </div>
-
-        <div class="collec-ad">
-            <div class="pos-container">
-                <img src="../svg/main-block-3.svg" alt="">
-                <div class="pos-bottom">
-                    <h3>Collection Title</h3>
-                    <a href="collection.html"><button class="poster-btn">SHOP NOW</button></a>
+        <!-- ------------ copyright ------------- -->
+        
+        <!-- ------------ sidebar ------------- -->
+        <div class="side-bar feedback">
+            <p>Feedback</p>
+            <div class="feedback-container">
+                <h4>We want to make it easy find products you love. How would you rate this experience today?</h4>
+                <div class="good-bad">
+                    <div id="smile">&#9787;</div>
+                    <div id="unhappy">&#9785;</div>
                 </div>
             </div>
-            <div class="pos-container">
-                <img src="../svg/main-block-3.svg" alt="">
-                <div class="pos-bottom">
-                    <h3>Collection Title</h3>
-                    <a href="collection.html"><button class="poster-btn">SHOP NOW</button></a>
-                </div>
+        </div>
+        <div class="side-bar rewards">
+            <div class="side-icon">
+                <img src="../svg/gift.svg" alt="">
             </div>
-            <div class="pos-container">
-                <img src="../svg/main-block-3.svg" alt="">
-                <div class="pos-bottom">
-                    <h3>Collection Title</h3>
-                    <a href="collection.html"><button class="poster-btn">SHOP NOW</button></a>
-                </div>
-            </div>
-        </div>       
-    </main>
-    <footer class="pink-footer blue-footer">
-        <div class="white-logo"><img src="../svg/white-logo-noshadow.svg" alt=""></div>
-        <ul class="white-social">
-            <li><img src="../svg/white-ins.svg" alt=""></a></li>
-            <li><img src="../svg/white-snap.svg" alt=""></li>
-            <li><img src="../svg/white-twi.svg" alt=""></li>
-            <li><img src="../svg/white-youtube.svg" alt=""></li>
-        </ul>
-        <p>© 2022 POP MART All Right Reserved.</p>
+            <p>Rewards</p>
+        </div>
     </footer>
-    <script src="../js/script.js"></script>
     <script src="../js/jquery-3.6.0.min.js"></script>
     <script src="../js/app.js"></script>
+    <script src="../js/script.js"></script>
+    <script src="https://cdn.lordicon.com/lusqsztk.js"></script>
 </body>
 </html>
