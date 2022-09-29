@@ -109,7 +109,7 @@ button{
 }
 #hambur-menu{
 	display: none;
-	position: fixed;
+	position: absolute;
 	min-height: 100vh;
 	min-width: 100vw;
 	background-color: #fddb1b;
