@@ -1,0 +1,25 @@
+.other{
+    width: 100%;
+    height: 200px;
+    background-color: cornflowerblue;
+    /* position: fixed; */
+    bottom: 0;
+}
+p{
+    font-size: 20px;
+}
+.parent{
+    width: 200px;
+    height: 100vh;
+    background-color: darkorange;
+    position: sticky;
+    top: 0px;
+}
+.child{
+    width: 90px;
+    height: 90px;
+    background-color: darkolivegreen;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
