@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="39" viewBox="0 0 190 39">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #292424;
+      }
+
+      .cls-1 {
+        font-size: 38px;
+        font-family: STHupo;
+        letter-spacing: 0.015em;
+      }
+
+      .cls-2 {
+        font-size: 8px;
+        font-family: Inter;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #0f0f0f;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(-565 -7)">
+    <text id="POPMART" class="cls-1" transform="translate(651 37)"><tspan x="-85.88" y="0">POPMART</tspan></text>
+    <g id="Group_7" data-name="Group 7" transform="translate(743 11)">
+      <text id="R" class="cls-2" transform="translate(6.05 8.9)"><tspan x="-2.625" y="0">R</tspan></text>
+      <g id="Ellipse_13" data-name="Ellipse 13" class="cls-3">
+        <circle class="cls-4" cx="6" cy="6" r="6"/>
+        <circle class="cls-5" cx="6" cy="6" r="5.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

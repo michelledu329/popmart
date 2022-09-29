@@ -1,0 +1,56 @@
+<svg id="back-to-top" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55" height="55" viewBox="0 0 55 55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0d0d;
+        stroke: #707070;
+      }
+
+      .cls-1, .cls-3, .cls-5 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+      }
+
+      .cls-3, .cls-5, .cls-7 {
+        fill: none;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6, .cls-8 {
+        stroke: none;
+      }
+
+      .cls-8 {
+        fill: #000;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_45" data-name="Rectangle 45" class="cls-1" width="18.87" height="31.024"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_102" data-name="Ellipse 102" class="cls-2">
+    <circle class="cls-6" cx="27.5" cy="27.5" r="27.5"/>
+    <circle class="cls-7" cx="27.5" cy="27.5" r="26.5"/>
+  </g>
+  <line id="Line_53" data-name="Line 53" class="cls-3" y2="29.605" transform="translate(27.518 12.636)"/>
+  <g id="Mask_Group_6" data-name="Mask Group 6" class="cls-4" transform="translate(43.03 5.335) rotate(90)">
+    <g id="Path_88" data-name="Path 88" class="cls-5" transform="translate(5.661 31.024) rotate(-90)">
+      <path class="cls-6" d="M15.512,0,31.024,18.87H0Z"/>
+      <path class="cls-8" d="M 15.51209163665771 3.149467468261719 L 4.233161926269531 16.86982345581055 L 26.7910213470459 16.86982345581055 L 15.51209163665771 3.149467468261719 M 15.51209163665771 1.9073486328125e-06 L 31.0241813659668 18.86982345581055 L 1.9073486328125e-06 18.86982345581055 L 15.51209163665771 1.9073486328125e-06 Z"/>
+    </g>
+  </g>
+</svg>

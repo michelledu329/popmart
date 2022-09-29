@@ -1,0 +1,19 @@
+<svg id="sale-tag" xmlns="http://www.w3.org/2000/svg" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #51da7f;
+      }
+
+      .cls-2 {
+        fill: #292424;
+        font-size: 22px;
+        font-family: Inter;
+        font-weight: 800;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="43.5" cy="43.5" r="43.5"/>
+  <text id="_-40_" data-name="-40%" class="cls-2" transform="matrix(0.875, -0.485, 0.485, 0.875, 46.651, 49.185)"><tspan x="-30.2" y="0">-40%</tspan></text>
+</svg>

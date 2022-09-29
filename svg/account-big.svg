@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80.102" height="70.606" viewBox="0 0 80.102 70.606">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-6 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #ffe43c;
+      }
+
+      .cls-4 {
+        fill: #292424;
+        font-size: 17px;
+        font-family: Inter;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="account" transform="translate(-946.742 -146.476)">
+    <g id="Ellipse_27" data-name="Ellipse 27" class="cls-1" transform="translate(965.271 146.476)">
+      <circle class="cls-5" cx="22.116" cy="22.116" r="22.116"/>
+      <circle class="cls-6" cx="22.116" cy="22.116" r="21.116"/>
+    </g>
+    <path id="Path_32" data-name="Path 32" class="cls-2" d="M509.714,3785.227s-17,6.817-16.977,29.232" transform="translate(468.149 -3597.378)"/>
+    <path id="Path_33" data-name="Path 33" class="cls-2" d="M492.737,3785.227s17,6.817,16.977,29.232" transform="translate(504.642 -3597.378)"/>
+    <g id="Ellipse_28" data-name="Ellipse 28" class="cls-3" transform="translate(946.742 160.168)">
+      <circle class="cls-5" cx="14.144" cy="14.144" r="14.144"/>
+      <circle class="cls-6" cx="14.144" cy="14.144" r="13.144"/>
+    </g>
+    <g id="Ellipse_31" data-name="Ellipse 31" class="cls-3" transform="translate(998.557 160.168)">
+      <circle class="cls-5" cx="14.144" cy="14.144" r="14.144"/>
+      <circle class="cls-6" cx="14.144" cy="14.144" r="13.144"/>
+    </g>
+    <text id="P" class="cls-4" transform="translate(960.886 180.811)"><tspan x="-5.506" y="0">P</tspan></text>
+    <text id="O" class="cls-4" transform="translate(1012.355 180.811)"><tspan x="-6.645" y="0">O</tspan></text>
+  </g>
+</svg>

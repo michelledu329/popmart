@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="37" viewBox="0 0 32 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe43c;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_40" data-name="Group 40" transform="translate(-1369.5 -6314)">
+    <g id="Heart_pink" data-name="Heart pink" transform="translate(1377.74 6314.304)">
+      <path id="Path_58" data-name="Path 58" d="M55.076,48.4h0c0-.046,0,.046,0,0h0c.193-1.561,2.141-3,4-3a2.8,2.8,0,0,1,3,3h1a2.8,2.8,0,0,1,3-3c1.989,0,4,1.282,4,3,0,.026,0-.026,0,0v1h0c-.022,2.612-2.185,4.284-4,6a24.359,24.359,0,0,1-2,2c-.342.241-.8.873-1,1-.1.063.053-.032,0,0h0c-.01-.007-.986.01-1,0-.045-.032.085.063,0,0-.169-.126.3-.764,0-1a28.3,28.3,0,0,1-3-2c-1.662-1.631-3.488-3.782-4-6h0a3.581,3.581,0,0,1,0-1C55.076,48.349,55.074,48.445,55.076,48.4Z" transform="translate(-55.317 -45.702)"/>
+    </g>
+    <g id="Rectangle_25" data-name="Rectangle 25" class="cls-1" transform="translate(1371.5 6333)">
+      <rect class="cls-2" width="28" height="18"/>
+      <rect class="cls-3" x="1" y="1" width="26" height="16"/>
+    </g>
+    <g id="Rectangle_26" data-name="Rectangle 26" class="cls-1" transform="translate(1369.5 6327)">
+      <rect class="cls-2" width="32" height="9"/>
+      <rect class="cls-3" x="1" y="1" width="30" height="7"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" class="cls-1" transform="translate(1381.5 6327)">
+      <rect class="cls-2" width="9" height="24"/>
+      <rect class="cls-3" x="1" y="1" width="7" height="22"/>
+    </g>
+  </g>
+</svg>

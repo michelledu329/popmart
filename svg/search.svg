@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="238.5" height="31.473" viewBox="0 0 238.5 31.473">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 1.35px;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-4 {
+        fill: #575757;
+        font-size: 14px;
+        font-family: Helvetica;
+        letter-spacing: 0.06em;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="search" transform="translate(0 -1)">
+    <g id="search-2" data-name="search" transform="translate(0 1)">
+      <g id="Ellipse_15" data-name="Ellipse 15" class="cls-1">
+        <circle class="cls-5" cx="10" cy="10" r="10"/>
+        <circle class="cls-6" cx="10" cy="10" r="9.325"/>
+      </g>
+      <line id="Line_2" data-name="Line 2" class="cls-2" x2="9" y2="12" transform="translate(14.321 18.528)"/>
+    </g>
+    <path id="Path_86" data-name="Path 86" class="cls-3" d="M0,0H208.2" transform="translate(30.297 31.342)"/>
+    <text id="Search-3" data-name="Search" class="cls-4" transform="translate(54.297 19.671)"><tspan x="-24.279" y="0">Search</tspan></text>
+  </g>
+</svg>

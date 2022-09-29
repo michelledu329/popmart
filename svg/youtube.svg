@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="youtube" transform="translate(0.343)">
+    <g id="Group_21" data-name="Group 21" transform="translate(0 0)">
+      <circle id="Ellipse_36" data-name="Ellipse 36" cx="17.5" cy="17.5" r="17.5" transform="translate(-0.343)"/>
+    </g>
+    <path id="_001-youtube" data-name="001-youtube" class="cls-1" d="M20.378-4.214c-.237-.786-1.12-.788-2-1-1.608-.393-8-1-8-1s-6.392.622-8,1c-.863.211-1.763.214-2,1-.423,1.435,0,5,0,5a11.8,11.8,0,0,0,0,4,3.258,3.258,0,0,0,2,2c1.625.393,8,0,8,0s6.392.378,8,0a3.258,3.258,0,0,0,2-2,11.784,11.784,0,0,0,0-4S20.819-2.778,20.378-4.214Zm-12,7v-5l5,3Zm0,0" transform="translate(7.279 17.214)"/>
+  </g>
+</svg>

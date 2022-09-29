@@ -1,0 +1,49 @@
+<svg id="hambur-menu3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="34" viewBox="0 0 32 34">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #050505;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 1.35px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-linecap: square;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_35);
+      }
+    </style>
+    <filter id="Rectangle_35" x="0" y="0" width="32" height="34" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-5" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <g id="Rectangle_35-2" data-name="Rectangle 35" class="cls-1">
+      <rect class="cls-3" width="32" height="32"/>
+      <rect class="cls-4" x="0.675" y="0.675" width="30.65" height="30.65"/>
+    </g>
+  </g>
+  <g id="hambur-menu2" transform="translate(9 9)">
+    <line id="Line_30" data-name="Line 30" class="cls-2" x2="14"/>
+    <line id="Line_31" data-name="Line 31" class="cls-2" x2="14" transform="translate(0 7.041)"/>
+    <path id="Path_70" data-name="Path 70" class="cls-2" d="M0,0H14" transform="translate(0 14)"/>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="26" viewBox="0 0 24 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff0d0d;
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+
+      .cls-7 {
+        fill: #000;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_11);
+      }
+    </style>
+    <filter id="Rectangle_11" x="0" y="0" width="24" height="26" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-1" width="10" height="13" transform="translate(0.058)"/>
+    </clipPath>
+  </defs>
+  <g id="right-btn" transform="translate(-0.058)">
+    <g id="close-btn" transform="translate(0 0)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 0.06, 0)">
+        <g id="Rectangle_11-2" data-name="Rectangle 11" class="cls-2" transform="translate(0 0)">
+          <rect class="cls-5" width="24" height="24"/>
+          <rect class="cls-6" x="1" y="1" width="22" height="22"/>
+        </g>
+      </g>
+    </g>
+    <g id="Mask_Group_4" data-name="Mask Group 4" class="cls-3" transform="translate(9 6)">
+      <g id="Polygon_3" data-name="Polygon 3" class="cls-4" transform="translate(7.058) rotate(90)">
+        <path class="cls-5" d="M 12.07866191864014 9.5 L 0.9213384985923767 9.5 L 6.5 0.9174438714981079 L 12.07866191864014 9.5 Z"/>
+        <path class="cls-7" d="M 6.5 1.834897994995117 L 1.842683792114258 9 L 11.15731620788574 9 L 6.5 1.834897994995117 M 6.5 0 L 13 10 L 0 10 L 6.5 0 Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

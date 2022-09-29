@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="29" viewBox="0 0 27 29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_11);
+      }
+    </style>
+    <filter id="Rectangle_11" x="0" y="0" width="27" height="29" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="close-btn" transform="translate(-78 -19)">
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 78, 19)">
+      <g id="Rectangle_11-2" data-name="Rectangle 11" class="cls-1">
+        <rect class="cls-3" width="27" height="27"/>
+        <rect class="cls-4" x="1" y="1" width="25" height="25"/>
+      </g>
+    </g>
+    <g id="Group_22" data-name="Group 22" transform="translate(86.975 27.975)">
+      <line id="Line_17" data-name="Line 17" class="cls-2" x2="9.107" y2="9.107"/>
+      <line id="Line_18" data-name="Line 18" class="cls-2" x1="9.107" y2="9.107"/>
+    </g>
+  </g>
+</svg>

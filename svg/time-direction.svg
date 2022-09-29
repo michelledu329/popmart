@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="863" height="174" viewBox="0 0 863 174">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #fddb1b;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_125" data-name="Group 125" transform="translate(-490 -672)">
+    <g id="Group_123" data-name="Group 123">
+      <g id="Group_110" data-name="Group 110" transform="translate(8.75 -5.143)">
+        <line id="Line_47" data-name="Line 47" class="cls-1" y2="105" transform="translate(601.25 699.143)"/>
+        <path id="Path_82" data-name="Path 82" class="cls-1" d="M0,0V33.028" transform="translate(495.5 803.745)"/>
+        <path id="Path_83" data-name="Path 83" class="cls-1" d="M105.75,0H0" transform="translate(495.5 803.745)"/>
+        <g id="Ellipse_99" data-name="Ellipse 99" class="cls-2" transform="translate(490 837.29)">
+          <ellipse class="cls-4" cx="5.5" cy="5.677" rx="5.5" ry="5.677"/>
+          <ellipse class="cls-5" cx="5.5" cy="5.677" rx="4.5" ry="4.677"/>
+        </g>
+      </g>
+      <g id="Group_112" data-name="Group 112" transform="translate(1232 696)">
+        <line id="Line_47-2" data-name="Line 47" class="cls-1" y2="103" transform="translate(0)"/>
+        <path id="Path_82-2" data-name="Path 82" class="cls-1" d="M0,0V32.542" transform="translate(105.75 105.763)"/>
+        <line id="Line_49" data-name="Line 49" class="cls-1" x2="105.75" transform="translate(0 104.844)"/>
+        <g id="Ellipse_99-2" data-name="Ellipse 99" class="cls-2" transform="translate(100.25 138.814)">
+          <ellipse class="cls-4" cx="5.5" cy="5.593" rx="5.5" ry="5.593"/>
+          <ellipse class="cls-5" cx="5.5" cy="5.593" rx="4.5" ry="4.593"/>
+        </g>
+      </g>
+      <g id="Group_114" data-name="Group 114" transform="translate(214.416 -8.52)">
+        <line id="Line_47-3" data-name="Line 47" class="cls-1" y2="109" transform="translate(550.584 699.52)"/>
+        <path id="Path_82-3" data-name="Path 82" class="cls-1" d="M0,0V34.328" transform="translate(495.5 807.848)"/>
+        <line id="Line_49-2" data-name="Line 49" class="cls-1" x1="55.084" transform="translate(495.5 807.848)"/>
+        <g id="Ellipse_99-3" data-name="Ellipse 99" class="cls-2" transform="translate(490 842.712)">
+          <ellipse class="cls-4" cx="5.5" cy="5.9" rx="5.5" ry="5.9"/>
+          <ellipse class="cls-5" cx="5.5" cy="5.9" rx="4.5" ry="4.9"/>
+        </g>
+      </g>
+      <g id="Group_115" data-name="Group 115" transform="translate(1075.666 693.5)">
+        <line id="Line_47-4" data-name="Line 47" class="cls-1" y2="107" transform="translate(0)"/>
+        <path id="Path_82-4" data-name="Path 82" class="cls-1" d="M0,0V33.776" transform="translate(55.084 106.586)"/>
+        <line id="Line_49-3" data-name="Line 49" class="cls-1" x2="55.084" transform="translate(0 106.586)"/>
+        <g id="Ellipse_99-4" data-name="Ellipse 99" class="cls-2" transform="translate(49.584 140.889)">
+          <ellipse class="cls-4" cx="5.5" cy="5.805" rx="5.5" ry="5.805"/>
+          <ellipse class="cls-5" cx="5.5" cy="5.805" rx="4.5" ry="4.805"/>
+        </g>
+      </g>
+      <g id="Group_116" data-name="Group 116" transform="translate(426 -112.606)">
+        <path id="Path_82-5" data-name="Path 82" class="cls-1" d="M0,0V140.689" transform="translate(495.5 806.106)"/>
+        <g id="Ellipse_99-5" data-name="Ellipse 99" class="cls-2" transform="translate(490 946.795)">
+          <ellipse class="cls-4" cx="5.5" cy="5.902" rx="5.5" ry="5.902"/>
+          <ellipse class="cls-5" cx="5.5" cy="5.902" rx="4.5" ry="4.902"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_113" data-name="Group 113">
+      <g id="Rectangle_28" data-name="Rectangle 28" class="cls-3" transform="translate(490 672)">
+        <rect class="cls-4" width="863" height="24" rx="12"/>
+        <rect class="cls-5" x="1" y="1" width="861" height="22" rx="11"/>
+      </g>
+    </g>
+  </g>
+</svg>

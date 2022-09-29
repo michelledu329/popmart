@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="183" viewBox="0 0 256 183">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #05db73;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        font-size: 36px;
+        font-family: Shrimp-Regular, Shrimp;
+      }
+
+      .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #000;
+      }
+
+      .cls-8 {
+        filter: url(#Rectangle_37);
+      }
+    </style>
+    <filter id="Rectangle_37" x="0" y="96" width="256" height="87" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_102" data-name="Group 102" transform="translate(-1064 -314)">
+    <g id="Group_101" data-name="Group 101" transform="translate(587 23)">
+      <g class="cls-8" transform="matrix(1, 0, 0, 1, 477, 291)">
+        <g id="Rectangle_37-2" data-name="Rectangle 37" class="cls-1" transform="translate(0 96)">
+          <rect class="cls-5" width="256" height="83"/>
+          <rect class="cls-6" x="1" y="1" width="254" height="81"/>
+        </g>
+      </g>
+      <text id="About_Us" data-name="About Us" class="cls-2" transform="translate(603 439)"><tspan x="-84.06" y="0">About Us</tspan></text>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" class="cls-3" transform="translate(1142 325)">
+      <path class="cls-5" d="M50,0l50,87H0Z"/>
+      <path class="cls-7" d="M 50 4.013778686523438 L 3.456199645996094 85 L 96.54380035400391 85 L 50 4.013778686523438 M 50 0 L 100 87 L 0 87 L 50 0 Z"/>
+    </g>
+    <g id="Ellipse_93" data-name="Ellipse 93" class="cls-4" transform="translate(1184 314)">
+      <circle class="cls-5" cx="8.5" cy="8.5" r="8.5"/>
+      <circle class="cls-6" cx="8.5" cy="8.5" r="7.5"/>
+    </g>
+  </g>
+</svg>

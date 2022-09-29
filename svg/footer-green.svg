@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="342.168" viewBox="0 0 1440 342.168">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ffe43c;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        fill: #5cbc6c;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="1429" height="310"/>
+    </clipPath>
+  </defs>
+  <g id="footer-green" transform="translate(-0.652 -1810.708)">
+    <path id="Path_44" data-name="Path 44" class="cls-2" d="M0,0H1440V342.168H0Z" transform="translate(0.652 1810.708)"/>
+    <g id="Repeat_Grid_5" data-name="Repeat Grid 5" class="cls-3" transform="translate(11.652 1842.5)">
+      <g transform="translate(-30 -178)">
+        <circle id="Ellipse_37" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(272 -178)">
+        <circle id="Ellipse_37-2" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-2" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-2" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(574 -178)">
+        <circle id="Ellipse_37-3" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-3" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-3" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(876 -178)">
+        <circle id="Ellipse_37-4" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-4" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-4" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(1178 -178)">
+        <circle id="Ellipse_37-5" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-5" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-5" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(-30 31)">
+        <circle id="Ellipse_37-6" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-6" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-6" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(272 31)">
+        <circle id="Ellipse_37-7" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-7" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-7" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(574 31)">
+        <circle id="Ellipse_37-8" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-8" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-8" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(876 31)">
+        <circle id="Ellipse_37-9" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-9" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-9" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+      <g transform="translate(1178 31)">
+        <circle id="Ellipse_37-10" data-name="Ellipse 37" class="cls-4" cx="30" cy="30" r="30" transform="translate(30 178)"/>
+        <circle id="Ellipse_38-10" data-name="Ellipse 38" class="cls-4" cx="30" cy="30" r="30" transform="translate(107 287)"/>
+        <circle id="Ellipse_39-10" data-name="Ellipse 39" class="cls-4" cx="30" cy="30" r="30" transform="translate(178 178)"/>
+      </g>
+    </g>
+  </g>
+</svg>

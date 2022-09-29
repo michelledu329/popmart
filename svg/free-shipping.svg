@@ -1,0 +1,25 @@
+<svg id="free-shipping" xmlns="http://www.w3.org/2000/svg" width="87" height="87" viewBox="0 0 87 87">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffe43c;
+      }
+
+      .cls-2 {
+        font-size: 19px;
+        font-family: Inter;
+        font-weight: 800;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        fill: #292424;
+        font-size: 13px;
+        font-family: Avenir-Book, Avenir;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-1" cx="43.5" cy="43.5" r="43.5"/>
+  <text id="FREE" class="cls-2" transform="matrix(0.875, -0.485, 0.485, 0.875, 42.393, 42.468)"><tspan x="-23.645" y="0">FREE</tspan></text>
+  <text id="Shipping" class="cls-3" transform="matrix(0.875, -0.485, 0.485, 0.875, 49.801, 58.757)"><tspan x="-25.877" y="0">Shipping</tspan></text>
+</svg>
