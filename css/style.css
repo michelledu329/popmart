@@ -211,6 +211,7 @@ button{
 	height: 38px;
 	margin-left: 10px;
 }
+
 /* .logo{
 	display: block;
 	background: url('../svg/logo.svg');
@@ -219,6 +220,7 @@ button{
 	height: 35px;
 	margin: 0 auto;
 } */
+
 
 a.logo{
 	font-family: 'inter';
