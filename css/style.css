@@ -54,14 +54,14 @@ a{
 button{
 	cursor: pointer;
 }
-/* @font-face {
+@font-face {
 	font-family: inter;
-	src: url('fonts/Inter-Regular.ttf') format('truetype');
+	src: url('../fonts/Inter-Regular.ttf') format('truetype');
 }
 @font-face {
 	font-family: inter;
-	src: url('fonts/Inter-SemiBold.ttf') format('truetype');
-} */
+	src: url('../fonts/Inter-Regular.ttf') format('truetype');
+}
 
 
 /* ============== index =============== */
