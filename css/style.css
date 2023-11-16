@@ -1134,6 +1134,7 @@ input[type=range]::-webkit-slider-runnable-track {
 	font-family: "Shrimp", "Inter", Arial;
 	font-size: 80px;
 	color: #fff;
+	font-weight: 800;
 }
 .text-block{
 	background-color: #fff;
