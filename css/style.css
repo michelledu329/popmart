@@ -1178,6 +1178,7 @@ input[type=range]::-webkit-slider-runnable-track {
 	font-size: 30px;
 	font-family: "Shrimp", "Inter", Arial;
 	padding: 15px 0;
+	font-weight: 800;
 }
 .desi-block h2::after{
 	display: block;
@@ -2317,10 +2318,11 @@ left: calc(75% - 10px)
 }
 .article-block>h1{
 	font-size: 60px;
-	font-family: "Shrimp";
+	font-family: "Inter";
 	position: absolute;
 	top: -40px;
 	left: -45px;
+	font-weight: 800;
 }
 .article-block>p{
 	padding: 20px;
